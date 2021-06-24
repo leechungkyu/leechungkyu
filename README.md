@@ -1,5 +1,8 @@
 ### ⚡ 없어져라 코로나!
->  
+
+### 까묵
+- 아틀라시안 유저그룹 Google 정보 : lee.chungkyu@atlassiancommunity.com / <PW>
+
 <!--
 **leechungkyu/leechungkyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
